@@ -7,7 +7,7 @@ from pyproj import Geod
 from typing import Any, Tuple, Optional
 from pint import Quantity
 
-from seba.io_tools import SebaDataset
+from .io_tools import SebaDataset
 
 dask.config.set(scheduler="threads")
 
