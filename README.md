@@ -26,7 +26,7 @@
     numerical simulations, Geochem. Geophys. Geosyst., 14, 751– 758,
     https://doi.org/10.1002/ggge.20071.
 
-## 🧩 Examples
+## Examples
 
 This example demonstrates how to compute and visualize **spectral energy diagnostics and nonlinear energy transfers** using **SEBA** with reanalysis or model data.
 
